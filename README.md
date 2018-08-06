@@ -15,3 +15,5 @@ practice for data science
 	- ridge regression
 	- lasso regression
 	- logistic regression
+- neural network
+	- tensorflow
