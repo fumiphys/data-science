@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# datasets
+neural_network/tensorflow/training_*
+neural_network/tensorflow/en_model.h5
