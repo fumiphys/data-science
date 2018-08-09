@@ -107,3 +107,5 @@ venv.bak/
 neural_network/tensorflow/training_*
 neural_network/tensorflow/en_model.h5
 neural_network/convolution/mldata
+neural_network/convolution/solution.csv
+neural_network/convolution/test.csv
