@@ -106,3 +106,4 @@ venv.bak/
 # datasets
 neural_network/tensorflow/training_*
 neural_network/tensorflow/en_model.h5
+neural_network/convolution/mldata
