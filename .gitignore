@@ -112,3 +112,4 @@ neural_network/convolution/test.csv
 neural_network/cat/dataset
 neural_network/tensorboard/mnist1_data
 neural_network/tensorboard/MNIST_data
+neural_network/tensorboard/simple_data
