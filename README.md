@@ -17,3 +17,5 @@ practice for data science
 	- logistic regression
 - neural network
 	- tensorflow
+	- convolutional neural networ
+	- tensorboard

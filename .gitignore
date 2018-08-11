@@ -109,3 +109,6 @@ neural_network/tensorflow/en_model.h5
 neural_network/convolution/mldata
 neural_network/convolution/solution.csv
 neural_network/convolution/test.csv
+neural_network/cat/dataset
+neural_network/tensorboard/mnist1_data
+neural_network/tensorboard/MNIST_data
