@@ -113,3 +113,4 @@ neural_network/cat/dataset
 neural_network/tensorboard/mnist1_data
 neural_network/tensorboard/MNIST_data
 neural_network/tensorboard/simple_data
+neural_network/VGG16/cat.jpg
