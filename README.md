@@ -19,3 +19,4 @@ practice for data science
 	- tensorflow
 	- convolutional neural networ
 	- tensorboard
+	- VGG16
