@@ -20,3 +20,5 @@ practice for data science
 	- convolutional neural networ
 	- tensorboard
 	- VGG16
+	- ResNet50
+	- MobileNet
